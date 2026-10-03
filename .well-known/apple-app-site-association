@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "VB9EL34RG4.com.ethanrdoesmc.orion" ],
+             "components": [
+               {
+                  "/": "/redirect/*",
+                  "comment": "Handles redirecting into Orion"
+               }
+             ]
+           }
+       ]
+   }
+}
